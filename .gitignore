@@ -1,0 +1,9 @@
+raw/
+data/*.private.json
+data/*.private.csv
+selected-awards.private.json
+PRIVATE_ANALYST_MEMO.md
+query-usaspending.mjs
+build-datasets.mjs
+.DS_Store
+*.log

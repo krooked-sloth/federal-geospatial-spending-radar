@@ -1,0 +1,311 @@
+{
+  "title": "Profile of the Selected Award Sample",
+  "as_of": "2026-08-11",
+  "caveat": "These aggregates describe the curated sample only. They are not federal market totals or addressable-market estimates.",
+  "award_count": 45,
+  "unique_recipient_count": 35,
+  "parent_order_count": 36,
+  "standalone_award_count": 9,
+  "active_on_as_of_date": 28,
+  "reported_obligations_in_sample": 370530297.6400001,
+  "period_start_min": "2020-09-20",
+  "period_end_max": "2030-12-09",
+  "by_awarding_agency": [
+    {
+      "value": "Department of Defense",
+      "award_count": 32,
+      "reported_obligations": 326744818.47
+    },
+    {
+      "value": "Department of the Interior",
+      "award_count": 3,
+      "reported_obligations": 18098772.869999997
+    },
+    {
+      "value": "Department of Agriculture",
+      "award_count": 6,
+      "reported_obligations": 15743761.83
+    },
+    {
+      "value": "Department of Commerce",
+      "award_count": 2,
+      "reported_obligations": 5067822.5600000005
+    },
+    {
+      "value": "Department of Transportation",
+      "award_count": 1,
+      "reported_obligations": 4260506
+    },
+    {
+      "value": "Department of Homeland Security",
+      "award_count": 1,
+      "reported_obligations": 614615.91
+    }
+  ],
+  "by_recipient": [
+    {
+      "value": "CALIBRE SYSTEMS INC",
+      "award_count": 1,
+      "reported_obligations": 50512319.7
+    },
+    {
+      "value": "LEIDOS, INC.",
+      "award_count": 1,
+      "reported_obligations": 49807958.83
+    },
+    {
+      "value": "AECOM TECHNICAL SERVICES, INC.",
+      "award_count": 2,
+      "reported_obligations": 38684224.9
+    },
+    {
+      "value": "KATMAI TECHNICAL SERVICES, LLC",
+      "award_count": 1,
+      "reported_obligations": 36826416.7
+    },
+    {
+      "value": "SOL SOLUTIONS, LLC",
+      "award_count": 1,
+      "reported_obligations": 21406881
+    },
+    {
+      "value": "CORPS SOLUTIONS LLC",
+      "award_count": 2,
+      "reported_obligations": 20353451.48
+    },
+    {
+      "value": "FEDERAL STRATEGIES, LLC",
+      "award_count": 2,
+      "reported_obligations": 19672288.72
+    },
+    {
+      "value": "SYSTEMS APPLICATION & TECHNOLOGIES INC",
+      "award_count": 1,
+      "reported_obligations": 17030801.13
+    },
+    {
+      "value": "KATMAI DIVERSIFIED SERVICES LLC",
+      "award_count": 1,
+      "reported_obligations": 12823734.99
+    },
+    {
+      "value": "SOUTHEAST GEOSPATIAL, JV LLC",
+      "award_count": 4,
+      "reported_obligations": 10625727.09
+    },
+    {
+      "value": "HEXAGON US FEDERAL, INC",
+      "award_count": 1,
+      "reported_obligations": 9304762.02
+    },
+    {
+      "value": "AECOM SERVICES, LLC",
+      "award_count": 1,
+      "reported_obligations": 8307584.74
+    },
+    {
+      "value": "VALIANT GOVERNMENT SERVICES LLC",
+      "award_count": 1,
+      "reported_obligations": 7683560
+    },
+    {
+      "value": "AEVEX AEROSPACE, LLC",
+      "award_count": 1,
+      "reported_obligations": 6688036.9
+    },
+    {
+      "value": "DEWBERRY ENGINEERS INC.",
+      "award_count": 2,
+      "reported_obligations": 6667874.5600000005
+    },
+    {
+      "value": "ALPHA FACILITIES SOLUTIONS, LLC",
+      "award_count": 1,
+      "reported_obligations": 5938825.93
+    },
+    {
+      "value": "KBR WYLE SERVICES, LLC",
+      "award_count": 1,
+      "reported_obligations": 5746142.28
+    },
+    {
+      "value": "OPERATIONS SERVICES INC",
+      "award_count": 1,
+      "reported_obligations": 4421120.18
+    },
+    {
+      "value": "ETHIC TECH, LLC",
+      "award_count": 1,
+      "reported_obligations": 4302983.99
+    },
+    {
+      "value": "JOINT VENTURE SOLUTIONS (JVS) LLC",
+      "award_count": 1,
+      "reported_obligations": 4260506
+    },
+    {
+      "value": "SURDEX CORPORATION",
+      "award_count": 1,
+      "reported_obligations": 4106001.01
+    },
+    {
+      "value": "R & K SOLUTIONS, INC.",
+      "award_count": 2,
+      "reported_obligations": 3956488.73
+    },
+    {
+      "value": "CRITIGEN LLC",
+      "award_count": 1,
+      "reported_obligations": 3406557.71
+    },
+    {
+      "value": "NV5 GEOSPATIAL, INC.",
+      "award_count": 2,
+      "reported_obligations": 3230700
+    },
+    {
+      "value": "SYNCADD SYSTEMS INC",
+      "award_count": 1,
+      "reported_obligations": 3056281.9
+    },
+    {
+      "value": "LUCAYAN TECHNOLOGY SOLUTIONS LLC",
+      "award_count": 1,
+      "reported_obligations": 2915782.36
+    },
+    {
+      "value": "DYNAMIC-HHS JV, LLC",
+      "award_count": 1,
+      "reported_obligations": 1995315.07
+    },
+    {
+      "value": "FOREFRONT HEALTHCARE LLC",
+      "award_count": 1,
+      "reported_obligations": 1651089.01
+    },
+    {
+      "value": "REDCASTLE RESOURCES INC",
+      "award_count": 1,
+      "reported_obligations": 1505349.05
+    },
+    {
+      "value": "TETRA TECH, INC.",
+      "award_count": 1,
+      "reported_obligations": 970348
+    },
+    {
+      "value": "AERO-GRAPHICS INC",
+      "award_count": 1,
+      "reported_obligations": 678088
+    },
+    {
+      "value": "NEW LIGHT TECHNOLOGIES INC",
+      "award_count": 1,
+      "reported_obligations": 614615.91
+    },
+    {
+      "value": "XENTITY CORPORATION",
+      "award_count": 1,
+      "reported_obligations": 590056.8
+    },
+    {
+      "value": "MANTECH SRS TECHNOLOGIES, INC.",
+      "award_count": 1,
+      "reported_obligations": 550830
+    },
+    {
+      "value": "GEO OWL LLC",
+      "award_count": 2,
+      "reported_obligations": 237592.95
+    }
+  ],
+  "by_naics": [
+    {
+      "value": "541990",
+      "award_count": 9,
+      "reported_obligations": 93493616.38999999
+    },
+    {
+      "value": "561210",
+      "award_count": 6,
+      "reported_obligations": 69608302.09
+    },
+    {
+      "value": "541330",
+      "award_count": 10,
+      "reported_obligations": 69261486.18
+    },
+    {
+      "value": "541320",
+      "award_count": 1,
+      "reported_obligations": 49807958.83
+    },
+    {
+      "value": "541620",
+      "award_count": 3,
+      "reported_obligations": 30752264.64
+    },
+    {
+      "value": "541370",
+      "award_count": 7,
+      "reported_obligations": 15653011.57
+    },
+    {
+      "value": "562910",
+      "award_count": 1,
+      "reported_obligations": 15006474.31
+    },
+    {
+      "value": "334111",
+      "award_count": 1,
+      "reported_obligations": 9304762.02
+    },
+    {
+      "value": "541511",
+      "award_count": 2,
+      "reported_obligations": 5852550.62
+    },
+    {
+      "value": "531390",
+      "award_count": 1,
+      "reported_obligations": 4302983.99
+    },
+    {
+      "value": "541614",
+      "award_count": 1,
+      "reported_obligations": 2915782.36
+    },
+    {
+      "value": "541611",
+      "award_count": 2,
+      "reported_obligations": 2702624.47
+    },
+    {
+      "value": "541519",
+      "award_count": 1,
+      "reported_obligations": 1868480.17
+    }
+  ],
+  "by_award_type": [
+    {
+      "value": "DELIVERY ORDER",
+      "award_count": 32,
+      "reported_obligations": 244511292.75
+    },
+    {
+      "value": "DEFINITIVE CONTRACT",
+      "award_count": 8,
+      "reported_obligations": 101724282.07
+    },
+    {
+      "value": "BPA CALL",
+      "award_count": 4,
+      "reported_obligations": 19873602.64
+    },
+    {
+      "value": "PURCHASE ORDER",
+      "award_count": 1,
+      "reported_obligations": 4421120.18
+    }
+  ]
+}

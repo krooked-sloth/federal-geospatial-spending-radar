@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://krooked-sloth.github.io/federal-geospatial-spending-radar/sitemap.xml

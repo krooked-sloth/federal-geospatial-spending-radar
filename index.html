@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Federal Geospatial Spending Radar | Official Award Data</title>
+  <meta name="description" content="A source-linked sample of federal geospatial, range-support, installation GIS, and asset-data awards from USAspending and SAM.gov.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://krooked-sloth.github.io/federal-geospatial-spending-radar/">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <meta property="og:title" content="Federal Geospatial Spending Radar">
+  <meta property="og:description" content="Explore selected official USAspending records for geospatial, range-support, installation GIS, and asset-data work.">
+  <meta property="og:type" content="website"><meta property="og:url" content="https://krooked-sloth.github.io/federal-geospatial-spending-radar/">
+  <link rel="stylesheet" href="styles.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"Federal Geospatial Spending Radar","description":"A curated, source-linked sample of federal contract awards related to geospatial, range-support, installation GIS, and asset-data work.","url":"https://krooked-sloth.github.io/federal-geospatial-spending-radar/","creator":{"@type":"Organization","name":"Falconer Operations","url":"https://falconeroperations.com"},"license":"https://opensource.org/license/mit","isBasedOn":"https://www.usaspending.gov/"}</script>
+</head>
+<body>
+  <header class="hero">
+    <nav class="wrap"><a class="brand" href="https://falconeroperations.com">Falconer Operations</a><a href="https://github.com/krooked-sloth/federal-geospatial-spending-radar">Open data</a></nav>
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow">Official federal award records</p>
+        <h1>See how the work is actually bought.</h1>
+        <p class="lede">A source-linked sample of geospatial, range-support, installation GIS, and asset-data awards pulled from USAspending and SAM.gov.</p>
+        <div class="actions"><a class="button" href="#explore">Explore awards</a><button class="text-button" type="button" data-view="vehicles">View contract vehicles</button></div>
+        <p id="as-of" class="as-of">Loading source date…</p>
+      </div>
+      <div class="hero-panel">
+        <span>Reported obligations in selected sample</span><strong id="sample-total">$0</strong>
+        <p>This is a curated research sample, not federal market size or forecast revenue.</p>
+        <div class="mini-grid"><div><b id="active-count">0</b><small>active by reported end date</small></div><div><b id="recipient-count">0</b><small>prime recipients</small></div></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap" id="explore">
+    <section class="metrics"><article><strong id="award-count">0</strong><span>reviewed awards</span></article><article><strong id="vehicle-count">0</strong><span>parent vehicles</span></article><article><strong id="notice-count">0</strong><span>official SAM notices</span></article></section>
+
+    <div class="view-tabs" role="tablist" aria-label="Federal data views"><button class="active" type="button" data-view="awards" role="tab" aria-selected="true">Awards</button><button type="button" data-view="vehicles" role="tab" aria-selected="false">Vehicles</button><button type="button" data-view="notices" role="tab" aria-selected="false">SAM notices</button><button type="button" data-view="method" role="tab" aria-selected="false">Method</button></div>
+
+    <section id="view-awards" class="view active">
+      <div class="section-head"><div><p class="eyebrow">Selected official records</p><h2>Federal award sample</h2></div><p>Search the reported award descriptions, recipients, offices, NAICS codes, and parent vehicles. Dates and values are agency-reported facts, not a prediction of new work.</p></div>
+      <div class="filters"><label>Search<input id="search" type="search" placeholder="RFMSS, LiDAR, asset inventory, recipient…"></label><label>Agency<select id="agency-filter"><option value="all">All agencies</option></select></label><label>NAICS<select id="naics-filter"><option value="all">All NAICS</option></select></label><label>Reported status<select id="status-filter"><option value="all">All records</option><option value="active">Current end date not passed</option><option value="past">Current end date passed</option></select></label></div>
+      <p id="result-count" class="result-count"></p><div id="award-list" class="award-list" aria-live="polite"></div>
+    </section>
+
+    <section id="view-vehicles" class="view"><div class="section-head"><div><p class="eyebrow">Parent awards</p><h2>Selected contract vehicles</h2></div><p>Potential values may be ceilings or shared values. They are displayed as reported and are never added together as market size.</p></div><div id="vehicle-list" class="card-list"></div></section>
+    <section id="view-notices" class="view"><div class="section-head"><div><p class="eyebrow">Buying-pattern evidence</p><h2>Official SAM.gov notices</h2></div><p>These notices are retained because they explain recurring public scopes. Their current status is shown and no inactive notice is presented as open work.</p></div><div id="notice-list" class="card-list"></div></section>
+    <section id="view-method" class="view"><div class="section-head"><div><p class="eyebrow">Read before using</p><h2>What the sample can prove</h2></div><p>The selected records show real examples of how agencies packaged and awarded work. They cannot establish total market size, growth rate, subcontract demand, or a recompete date.</p></div><div class="method-grid"><article><h3>Official sources only</h3><p>USAspending award search and detail records, human-readable USAspending award pages, and SAM.gov notices.</p></article><article><h3>Curated, not exhaustive</h3><p>The initial pull screened 2,114 unique records. Forty-five were selected for clearly described, recurring patterns.</p></article><article><h3>Amounts stay separate</h3><p>Obligations, exercised options, and potential values are different fields. Vehicle potential values are not treated as spend.</p></article><article><h3>No forecast claims</h3><p>An end date does not prove a recompete, and a prime award does not prove the company is seeking subcontractors.</p></article></div><p class="method-link"><a href="METHODOLOGY.md">Read the full methodology</a> · <a href="DATA_QUALITY.md">Read the data-quality check</a></p></section>
+
+    <section class="boundary"><div><p class="eyebrow">The honest boundary</p><h2>A radar is context, not a pipeline.</h2></div><p>This public sample is for understanding past and current buying patterns. Any live pursuit still requires the current notice, attachments, vehicle access, conflict review, and a buyer-specific go or no-go decision.</p></section>
+
+    <section class="next-step"><div><p class="eyebrow">Need the delivery side?</p><h2>Falconer Operations supports bounded geospatial and field-to-system work.</h2></div><a class="button" href="https://falconeroperations.com/contact.html">Send project details</a></section>
+  </main>
+
+  <footer><div class="wrap"><p><strong>Federal Geospatial Spending Radar</strong><br>Maintained by <a href="https://falconeroperations.com">Falconer Operations</a>.</p><p><a href="https://github.com/krooked-sloth/federal-geospatial-spending-radar">GitHub</a> · <a href="https://falconeroperations.com/contact.html">Written contact</a></p></div></footer>
+  <script src="app.js" defer></script>
+</body>
+</html>

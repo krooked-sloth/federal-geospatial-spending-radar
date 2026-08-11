@@ -1,0 +1,46 @@
+{
+  "title": "Official SAM.gov Notices Supporting the Award Patterns",
+  "as_of": "2026-08-11",
+  "record_count": 3,
+  "records": [
+    {
+      "notice_id": "M00264-26-R-0001",
+      "title": "TECOM Range and Training Area Management Support Services",
+      "notice_type": "Presolicitation",
+      "status_as_of": "Inactive",
+      "published_date": "2026-06-26",
+      "response_date": "2026-07-11",
+      "set_aside": "Competitive small business set-aside stated in notice",
+      "naics_code": "541990",
+      "period_structure": "12-month base plus four 12-month option periods",
+      "official_scope_summary": "The notice states that the follow-on scope includes range safety, range certification, RFMSS, RMTK, GIS data maintenance and development, curriculum work, range training systems, and installation-level range operations support.",
+      "source_url": "https://sam.gov/opp/7e394273f0f043b6a167fe2fa511d9e0/view"
+    },
+    {
+      "notice_id": "M67854-23-R-7902",
+      "title": "USMC Range Control Facilities",
+      "notice_type": "Solicitation",
+      "status_as_of": "Inactive",
+      "published_date": "2022-11-21",
+      "response_date": "2023-01-18",
+      "set_aside": "Total Small Business Set-Aside",
+      "naics_code": "541330",
+      "official_scope_summary": "The solicitation states that the services provide operational, safety, technical, and administrative support to Range Control Facilities. Public attachments include an RFMSS user manual and range-control task materials.",
+      "source_url": "https://sam.gov/workspace/contract/opp/0e8fae78de694ab6a485d9c637508ee5/view"
+    },
+    {
+      "notice_id": "12318722R0004",
+      "title": "Request for Information - National Geospatial Services",
+      "notice_type": "Special Notice / RFI",
+      "status_as_of": "Inactive",
+      "published_date": "2021-12-21",
+      "response_date": "2022-01-12",
+      "set_aside": "Anticipated 100% small business set-aside",
+      "naics_code": "541990",
+      "programmatic_ceiling_stated_in_notice": 50000000,
+      "period_structure": "Five years, described as a base year plus four one-year options",
+      "official_scope_summary": "The notice describes professional geospatial services including GIS, GPS, remote sensing, helpdesk support, operational support, analysis, and geospatial data and product delivery.",
+      "source_url": "https://sam.gov/workspace/contract/opp/aa16c3a5981147fc9e322aa00a9296a3/view"
+    }
+  ]
+}
