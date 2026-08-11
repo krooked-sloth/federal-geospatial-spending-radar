@@ -2,7 +2,7 @@
   "title": "Selected Federal Geospatial, Range, and Asset-Data Awards",
   "description": "Official award facts retrieved from the USAspending API. Selection is illustrative and not a complete market census.",
   "as_of": "2026-08-11",
-  "retrieved_at": "2026-08-11T23:13:02.912Z",
+  "retrieved_at": "2026-08-11T23:13:40.597Z",
   "source": "https://api.usaspending.gov/",
   "methodology": "Each row is an award-level USAspending record. Amounts are award-level reported values, not addressable market estimates. End dates are reported periods of performance and are not procurement forecasts.",
   "record_count": 45,
@@ -44,7 +44,7 @@
       "place_of_performance_city": "FREDERICKSBURG",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_M6785423F7901_9700_M6785423D7900_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_M6785423F7901_9700_M6785423D7900_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "N6247323F4920",
@@ -83,7 +83,7 @@
       "place_of_performance_city": "SAN DIEGO",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_N6247323F4920_9700_N6247321D2212_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_N6247323F4920_9700_N6247321D2212_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W5J9CQ22F0034",
@@ -122,7 +122,7 @@
       "place_of_performance_city": "ALEXANDRIA",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W5J9CQ22F0034_9700_W5J9CQ20A0002_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W5J9CQ22F0034_9700_W5J9CQ20A0002_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "N6945023F0823",
@@ -161,7 +161,7 @@
       "place_of_performance_city": "PENSACOLA",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_N6945023F0823_9700_N6945022D0053_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_N6945023F0823_9700_N6945022D0053_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W912ER22C0024",
@@ -200,7 +200,7 @@
       "place_of_performance_city": "HUNTSVILLE",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W912ER22C0024_9700_-NONE-_-NONE-/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W912ER22C0024_9700_-NONE-_-NONE-/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W912P924F0098",
@@ -239,7 +239,7 @@
       "place_of_performance_city": "FAIRFAX",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W912P924F0098_9700_W912P921D0038_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W912P924F0098_9700_W912P921D0038_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W912P924F0092",
@@ -278,7 +278,7 @@
       "place_of_performance_city": "SAINT PETERSBURG",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W912P924F0092_9700_W912P920D0025_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W912P924F0092_9700_W912P920D0025_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "N0018922F3034",
@@ -317,7 +317,7 @@
       "place_of_performance_city": "NORFOLK",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_N0018922F3034_9700_N0017819D7949_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_N0018922F3034_9700_N0017819D7949_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "M6740023F3000",
@@ -356,7 +356,7 @@
       "place_of_performance_city": null,
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_M6740023F3000_9700_N0017819D7416_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_M6740023F3000_9700_N0017819D7416_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "1305M223FNCNL0431",
@@ -395,7 +395,7 @@
       "place_of_performance_city": "FORT MYERS",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_1305M223FNCNL0431_1330_1305M220DNCNL0062_1330/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_1305M223FNCNL0431_1330_1305M220DNCNL0062_1330/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W9124722P0077",
@@ -434,7 +434,7 @@
       "place_of_performance_city": "FORT BRAGG",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W9124722P0077_9700_-NONE-_-NONE-/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9124722P0077_9700_-NONE-_-NONE-/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W9127S25FA001",
@@ -473,7 +473,7 @@
       "place_of_performance_city": "LEMOORE",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W9127S25FA001_9700_W9127S24D6010_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9127S25FA001_9700_W9127S24D6010_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W9127S25FA002",
@@ -512,7 +512,7 @@
       "place_of_performance_city": "CORPUS CHRISTI",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W9127S25FA002_9700_W9127S24D6011_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9127S25FA002_9700_W9127S24D6011_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W9127823F0223",
@@ -551,7 +551,7 @@
       "place_of_performance_city": "FORT MYER",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W9127823F0223_9700_47QRAA20D000T_4732/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9127823F0223_9700_47QRAA20D000T_4732/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "M6785426F8040",
@@ -590,7 +590,7 @@
       "place_of_performance_city": "QUANTICO",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_M6785426F8040_9700_M6785423D7902_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_M6785426F8040_9700_M6785423D7902_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W900KK23F5001",
@@ -629,7 +629,7 @@
       "place_of_performance_city": "FORT IRWIN",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W900KK23F5001_9700_W911S018D0001_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W900KK23F5001_9700_W911S018D0001_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W912BV21F0083",
@@ -668,7 +668,7 @@
       "place_of_performance_city": "FORT DIX",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W912BV21F0083_9700_W912BV18D0006_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W912BV21F0083_9700_W912BV18D0006_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W912HZ20C0029",
@@ -707,7 +707,7 @@
       "place_of_performance_city": "SOLANA BEACH",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W912HZ20C0029_9700_-NONE-_-NONE-/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W912HZ20C0029_9700_-NONE-_-NONE-/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "N6945024F0620",
@@ -746,7 +746,7 @@
       "place_of_performance_city": "JACKSONVILLE",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_N6945024F0620_9700_N6945022D0053_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_N6945024F0620_9700_N6945022D0053_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "N6945024F0544",
@@ -785,7 +785,7 @@
       "place_of_performance_city": "KINGS BAY",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_N6945024F0544_9700_N6945022D0053_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_N6945024F0544_9700_N6945022D0053_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W9124G21C0004",
@@ -824,7 +824,7 @@
       "place_of_performance_city": "FORT NOVOSEL",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W9124G21C0004_9700_-NONE-_-NONE-/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9124G21C0004_9700_-NONE-_-NONE-/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "M9549421F0018",
@@ -863,7 +863,7 @@
       "place_of_performance_city": "ALEXANDRIA",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_M9549421F0018_9700_GS10F0439P_4730/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_M9549421F0018_9700_GS10F0439P_4730/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "140D0422C0056",
@@ -902,7 +902,7 @@
       "place_of_performance_city": "ANCHORAGE",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_140D0422C0056_1406_-NONE-_-NONE-/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_140D0422C0056_1406_-NONE-_-NONE-/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W5J9CQ25F0017",
@@ -941,7 +941,7 @@
       "place_of_performance_city": "MANASSAS",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W5J9CQ25F0017_9700_47QRCA25DU210_4732/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W5J9CQ25F0017_9700_47QRCA25DU210_4732/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "12314426F0167",
@@ -980,7 +980,7 @@
       "place_of_performance_city": "HUNTSVILLE",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_12314426F0167_1205_12FPC222A0003_12D0/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_12314426F0167_1205_12FPC222A0003_12D0/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "12314426F0176",
@@ -1019,7 +1019,7 @@
       "place_of_performance_city": "CHESTERFIELD",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_12314426F0176_1205_12FPC222A0007_12D0/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_12314426F0176_1205_12FPC222A0007_12D0/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "140L0621F0294",
@@ -1058,7 +1058,7 @@
       "place_of_performance_city": "LAKEWOOD",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_140L0621F0294_1422_140L0621A0022_1422/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_140L0621F0294_1422_140L0621A0022_1422/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "N6945024F0883",
@@ -1097,7 +1097,7 @@
       "place_of_performance_city": "JACKSONVILLE",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_N6945024F0883_9700_N6945022D0053_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_N6945024F0883_9700_N6945022D0053_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "12441925F0045",
@@ -1136,7 +1136,7 @@
       "place_of_performance_city": "WASHINGTON",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_12441925F0045_12C2_12970224D0003_12C2/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_12441925F0045_12C2_12970224D0003_12C2/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "M0026422C0002",
@@ -1175,7 +1175,7 @@
       "place_of_performance_city": "FREDERICKSBURG",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_M0026422C0002_9700_-NONE-_-NONE-/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_M0026422C0002_9700_-NONE-_-NONE-/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "M9549425C0005",
@@ -1214,7 +1214,7 @@
       "place_of_performance_city": "QUANTICO",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_M9549425C0005_9700_-NONE-_-NONE-/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_M9549425C0005_9700_-NONE-_-NONE-/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "12760424F0423",
@@ -1253,7 +1253,7 @@
       "place_of_performance_city": "SALT LAKE CITY",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_12760424F0423_12C2_12970224D0005_12C2/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_12760424F0423_12C2_12970224D0005_12C2/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W9115122C0007",
@@ -1292,7 +1292,7 @@
       "place_of_performance_city": "FORT CAVAZOS",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W9115122C0007_9700_-NONE-_-NONE-/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9115122C0007_9700_-NONE-_-NONE-/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W9127S26FA014",
@@ -1331,7 +1331,7 @@
       "place_of_performance_city": "EL PASO",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W9127S26FA014_9700_W9127S24D6003_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9127S26FA014_9700_W9127S24D6003_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "70FA3126F00000024",
@@ -1370,7 +1370,7 @@
       "place_of_performance_city": "WASHINGTON",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_70FA3126F00000024_7022_47QRAA20D001E_4732/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70FA3126F00000024_7022_47QRAA20D001E_4732/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W912P924F0094",
@@ -1409,7 +1409,7 @@
       "place_of_performance_city": "SAINT PETERSBURG",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W912P924F0094_9700_W912P920D0025_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W912P924F0094_9700_W912P920D0025_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W9127824F0428",
@@ -1448,7 +1448,7 @@
       "place_of_performance_city": "CAMP LEJEUNE",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W9127824F0428_9700_W9127823D0044_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9127824F0428_9700_W9127823D0044_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "1305M226F0259",
@@ -1487,7 +1487,7 @@
       "place_of_performance_city": "GOLDEN",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_1305M226F0259_1330_1305M221DNCNP0019_1330/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_1305M226F0259_1330_1305M221DNCNP0019_1330/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W912P925FA111",
@@ -1526,7 +1526,7 @@
       "place_of_performance_city": "SOUTH SALT LAKE",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W912P925FA111_9700_W912P922D0006_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W912P925FA111_9700_W912P922D0006_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W9127824F0336",
@@ -1565,7 +1565,7 @@
       "place_of_performance_city": "CHERRY POINT",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W9127824F0336_9700_W9127821D0052_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9127824F0336_9700_W9127821D0052_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "W9127825FA201",
@@ -1604,7 +1604,7 @@
       "place_of_performance_city": "MOBILE",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_W9127825FA201_9700_W9127825DA001_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9127825FA201_9700_W9127825DA001_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "12441925F0042",
@@ -1643,7 +1643,7 @@
       "place_of_performance_city": "SALT LAKE CITY",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_12441925F0042_12C2_12970224D0006_12C2/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_12441925F0042_12C2_12970224D0006_12C2/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "697DCK23C00391",
@@ -1682,7 +1682,7 @@
       "place_of_performance_city": "WASHINGTON",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_697DCK23C00391_6920_-NONE-_-NONE-/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_697DCK23C00391_6920_-NONE-_-NONE-/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "12441925F0044",
@@ -1721,7 +1721,7 @@
       "place_of_performance_city": "SALT LAKE CITY",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_12441925F0044_12C2_12970224D0003_12C2/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_12441925F0044_12C2_12970224D0003_12C2/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     },
     {
       "award_id": "140D0426F0016",
@@ -1760,7 +1760,7 @@
       "place_of_performance_city": "ROANOKE",
       "source_url": "https://www.usaspending.gov/award/CONT_AWD_140D0426F0016_1406_47QTCA18D001Z_4732/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_AWD_140D0426F0016_1406_47QTCA18D001Z_4732/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z"
+      "retrieved_at": "2026-08-11T23:13:40.597Z"
     }
   ]
 }

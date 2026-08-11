@@ -2,7 +2,7 @@
   "title": "Selected Parent Contract Vehicles",
   "description": "Official USAspending facts for parent vehicles referenced by the selected award records.",
   "as_of": "2026-08-11",
-  "retrieved_at": "2026-08-11T23:13:02.912Z",
+  "retrieved_at": "2026-08-11T23:13:40.597Z",
   "record_count": 10,
   "records": [
     {
@@ -26,7 +26,7 @@
       "competition": "FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES",
       "source_url": "https://www.usaspending.gov/award/CONT_IDV_12970224D0002_12C2/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_IDV_12970224D0002_12C2/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z",
+      "retrieved_at": "2026-08-11T23:13:40.597Z",
       "value_caveat": "Potential total value is the value reported for this IDV record. It may be a ceiling, may be shared across related awards, and is not the same as obligated spending."
     },
     {
@@ -50,7 +50,7 @@
       "competition": "FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES",
       "source_url": "https://www.usaspending.gov/award/CONT_IDV_12970224D0003_12C2/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_IDV_12970224D0003_12C2/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z",
+      "retrieved_at": "2026-08-11T23:13:40.597Z",
       "value_caveat": "Potential total value is the value reported for this IDV record. It may be a ceiling, may be shared across related awards, and is not the same as obligated spending."
     },
     {
@@ -74,7 +74,7 @@
       "competition": "FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES",
       "source_url": "https://www.usaspending.gov/award/CONT_IDV_12970224D0005_12C2/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_IDV_12970224D0005_12C2/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z",
+      "retrieved_at": "2026-08-11T23:13:40.597Z",
       "value_caveat": "Potential total value is the value reported for this IDV record. It may be a ceiling, may be shared across related awards, and is not the same as obligated spending."
     },
     {
@@ -98,7 +98,7 @@
       "competition": "FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES",
       "source_url": "https://www.usaspending.gov/award/CONT_IDV_12970224D0006_12C2/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_IDV_12970224D0006_12C2/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z",
+      "retrieved_at": "2026-08-11T23:13:40.597Z",
       "value_caveat": "Potential total value is the value reported for this IDV record. It may be a ceiling, may be shared across related awards, and is not the same as obligated spending."
     },
     {
@@ -122,7 +122,7 @@
       "competition": "FULL AND OPEN COMPETITION",
       "source_url": "https://www.usaspending.gov/award/CONT_IDV_N6945022D0053_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_IDV_N6945022D0053_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z",
+      "retrieved_at": "2026-08-11T23:13:40.597Z",
       "value_caveat": "Potential total value is the value reported for this IDV record. It may be a ceiling, may be shared across related awards, and is not the same as obligated spending."
     },
     {
@@ -146,7 +146,7 @@
       "competition": "FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES",
       "source_url": "https://www.usaspending.gov/award/CONT_IDV_M6785423D7900_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_IDV_M6785423D7900_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z",
+      "retrieved_at": "2026-08-11T23:13:40.597Z",
       "value_caveat": "Potential total value is the value reported for this IDV record. It may be a ceiling, may be shared across related awards, and is not the same as obligated spending."
     },
     {
@@ -170,7 +170,7 @@
       "competition": "FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES",
       "source_url": "https://www.usaspending.gov/award/CONT_IDV_M6785423D7902_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_IDV_M6785423D7902_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z",
+      "retrieved_at": "2026-08-11T23:13:40.597Z",
       "value_caveat": "Potential total value is the value reported for this IDV record. It may be a ceiling, may be shared across related awards, and is not the same as obligated spending."
     },
     {
@@ -194,7 +194,7 @@
       "competition": "FULL AND OPEN COMPETITION",
       "source_url": "https://www.usaspending.gov/award/CONT_IDV_W9127821D0052_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_IDV_W9127821D0052_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z",
+      "retrieved_at": "2026-08-11T23:13:40.597Z",
       "value_caveat": "Potential total value is the value reported for this IDV record. It may be a ceiling, may be shared across related awards, and is not the same as obligated spending."
     },
     {
@@ -218,7 +218,7 @@
       "competition": "FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES",
       "source_url": "https://www.usaspending.gov/award/CONT_IDV_W912P920D0025_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_IDV_W912P920D0025_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z",
+      "retrieved_at": "2026-08-11T23:13:40.597Z",
       "value_caveat": "Potential total value is the value reported for this IDV record. It may be a ceiling, may be shared across related awards, and is not the same as obligated spending."
     },
     {
@@ -242,7 +242,7 @@
       "competition": "FULL AND OPEN COMPETITION AFTER EXCLUSION OF SOURCES",
       "source_url": "https://www.usaspending.gov/award/CONT_IDV_W912P921D0038_9700/",
       "source_api_url": "https://api.usaspending.gov/api/v2/awards/CONT_IDV_W912P921D0038_9700/",
-      "retrieved_at": "2026-08-11T23:13:02.912Z",
+      "retrieved_at": "2026-08-11T23:13:40.597Z",
       "value_caveat": "Potential total value is the value reported for this IDV record. It may be a ceiling, may be shared across related awards, and is not the same as obligated spending."
     }
   ]
