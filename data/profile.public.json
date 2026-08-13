@@ -1,13 +1,13 @@
 {
   "title": "Profile of the Selected Award Sample",
-  "as_of": "2026-08-11",
+  "as_of": "2026-08-13",
   "caveat": "These aggregates describe the curated sample only. They are not federal market totals or addressable-market estimates.",
   "award_count": 45,
   "unique_recipient_count": 35,
   "parent_order_count": 36,
   "standalone_award_count": 9,
   "active_on_as_of_date": 28,
-  "reported_obligations_in_sample": 370530297.6400001,
+  "reported_obligations_in_sample": 360660774.3300001,
   "period_start_min": "2020-09-20",
   "period_end_max": "2030-12-09",
   "by_awarding_agency": [
@@ -17,14 +17,14 @@
       "reported_obligations": 326744818.47
     },
     {
-      "value": "Department of the Interior",
-      "award_count": 3,
-      "reported_obligations": 18098772.869999997
-    },
-    {
       "value": "Department of Agriculture",
       "award_count": 6,
       "reported_obligations": 15743761.83
+    },
+    {
+      "value": "Department of the Interior",
+      "award_count": 3,
+      "reported_obligations": 8229249.5600000005
     },
     {
       "value": "Department of Commerce",
@@ -82,11 +82,6 @@
       "value": "SYSTEMS APPLICATION & TECHNOLOGIES INC",
       "award_count": 1,
       "reported_obligations": 17030801.13
-    },
-    {
-      "value": "KATMAI DIVERSIFIED SERVICES LLC",
-      "award_count": 1,
-      "reported_obligations": 12823734.99
     },
     {
       "value": "SOUTHEAST GEOSPATIAL, JV LLC",
@@ -169,6 +164,11 @@
       "reported_obligations": 3056281.9
     },
     {
+      "value": "KATMAI DIVERSIFIED SERVICES LLC",
+      "award_count": 1,
+      "reported_obligations": 2954211.68
+    },
+    {
       "value": "LUCAYAN TECHNOLOGY SOLUTIONS LLC",
       "award_count": 1,
       "reported_obligations": 2915782.36
@@ -223,7 +223,7 @@
     {
       "value": "541990",
       "award_count": 9,
-      "reported_obligations": 93493616.38999999
+      "reported_obligations": 83624093.07999998
     },
     {
       "value": "561210",
@@ -295,7 +295,7 @@
     {
       "value": "DEFINITIVE CONTRACT",
       "award_count": 8,
-      "reported_obligations": 101724282.07
+      "reported_obligations": 91854758.76
     },
     {
       "value": "BPA CALL",
