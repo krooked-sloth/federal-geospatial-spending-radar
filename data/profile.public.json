@@ -1,20 +1,20 @@
 {
   "title": "Profile of the Selected Award Sample",
-  "as_of": "2026-08-13",
+  "as_of": "2026-09-13",
   "caveat": "These aggregates describe the curated sample only. They are not federal market totals or addressable-market estimates.",
   "award_count": 45,
   "unique_recipient_count": 35,
   "parent_order_count": 36,
   "standalone_award_count": 9,
-  "active_on_as_of_date": 28,
-  "reported_obligations_in_sample": 360660774.3300001,
+  "active_on_as_of_date": 27,
+  "reported_obligations_in_sample": 381616765.5100001,
   "period_start_min": "2020-09-20",
   "period_end_max": "2030-12-09",
   "by_awarding_agency": [
     {
       "value": "Department of Defense",
       "award_count": 32,
-      "reported_obligations": 326744818.47
+      "reported_obligations": 343817233.25
     },
     {
       "value": "Department of Agriculture",
@@ -24,7 +24,7 @@
     {
       "value": "Department of the Interior",
       "award_count": 3,
-      "reported_obligations": 8229249.5600000005
+      "reported_obligations": 11839748.32
     },
     {
       "value": "Department of Commerce",
@@ -39,19 +39,24 @@
     {
       "value": "Department of Homeland Security",
       "award_count": 1,
-      "reported_obligations": 614615.91
+      "reported_obligations": 887693.55
     }
   ],
   "by_recipient": [
+    {
+      "value": "LEIDOS, INC.",
+      "award_count": 1,
+      "reported_obligations": 55307958.83
+    },
     {
       "value": "CALIBRE SYSTEMS INC",
       "award_count": 1,
       "reported_obligations": 50512319.7
     },
     {
-      "value": "LEIDOS, INC.",
+      "value": "KATMAI TECHNICAL SERVICES, LLC",
       "award_count": 1,
-      "reported_obligations": 49807958.83
+      "reported_obligations": 40622367.75
     },
     {
       "value": "AECOM TECHNICAL SERVICES, INC.",
@@ -59,19 +64,14 @@
       "reported_obligations": 38684224.9
     },
     {
-      "value": "KATMAI TECHNICAL SERVICES, LLC",
-      "award_count": 1,
-      "reported_obligations": 36826416.7
+      "value": "CORPS SOLUTIONS LLC",
+      "award_count": 2,
+      "reported_obligations": 26345707.04
     },
     {
       "value": "SOL SOLUTIONS, LLC",
       "award_count": 1,
-      "reported_obligations": 21406881
-    },
-    {
-      "value": "CORPS SOLUTIONS LLC",
-      "award_count": 2,
-      "reported_obligations": 20353451.48
+      "reported_obligations": 21385293
     },
     {
       "value": "FEDERAL STRATEGIES, LLC",
@@ -114,6 +114,11 @@
       "reported_obligations": 6667874.5600000005
     },
     {
+      "value": "KATMAI DIVERSIFIED SERVICES LLC",
+      "award_count": 1,
+      "reported_obligations": 6564710.44
+    },
+    {
       "value": "ALPHA FACILITIES SOLUTIONS, LLC",
       "award_count": 1,
       "reported_obligations": 5938825.93
@@ -149,6 +154,11 @@
       "reported_obligations": 3956488.73
     },
     {
+      "value": "FOREFRONT HEALTHCARE LLC",
+      "award_count": 1,
+      "reported_obligations": 3456885.18
+    },
+    {
       "value": "CRITIGEN LLC",
       "award_count": 1,
       "reported_obligations": 3406557.71
@@ -164,11 +174,6 @@
       "reported_obligations": 3056281.9
     },
     {
-      "value": "KATMAI DIVERSIFIED SERVICES LLC",
-      "award_count": 1,
-      "reported_obligations": 2954211.68
-    },
-    {
       "value": "LUCAYAN TECHNOLOGY SOLUTIONS LLC",
       "award_count": 1,
       "reported_obligations": 2915782.36
@@ -177,11 +182,6 @@
       "value": "DYNAMIC-HHS JV, LLC",
       "award_count": 1,
       "reported_obligations": 1995315.07
-    },
-    {
-      "value": "FOREFRONT HEALTHCARE LLC",
-      "award_count": 1,
-      "reported_obligations": 1651089.01
     },
     {
       "value": "REDCASTLE RESOURCES INC",
@@ -194,14 +194,14 @@
       "reported_obligations": 970348
     },
     {
+      "value": "NEW LIGHT TECHNOLOGIES INC",
+      "award_count": 1,
+      "reported_obligations": 887693.55
+    },
+    {
       "value": "AERO-GRAPHICS INC",
       "award_count": 1,
       "reported_obligations": 678088
-    },
-    {
-      "value": "NEW LIGHT TECHNOLOGIES INC",
-      "award_count": 1,
-      "reported_obligations": 614615.91
     },
     {
       "value": "XENTITY CORPORATION",
@@ -223,27 +223,27 @@
     {
       "value": "541990",
       "award_count": 9,
-      "reported_obligations": 83624093.07999998
-    },
-    {
-      "value": "561210",
-      "award_count": 6,
-      "reported_obligations": 69608302.09
+      "reported_obligations": 87234591.83999999
     },
     {
       "value": "541330",
       "award_count": 10,
-      "reported_obligations": 69261486.18
+      "reported_obligations": 75253741.74
+    },
+    {
+      "value": "561210",
+      "award_count": 6,
+      "reported_obligations": 75210049.31
     },
     {
       "value": "541320",
       "award_count": 1,
-      "reported_obligations": 49807958.83
+      "reported_obligations": 55307958.83
     },
     {
       "value": "541620",
       "award_count": 3,
-      "reported_obligations": 30752264.64
+      "reported_obligations": 30730676.64
     },
     {
       "value": "541370",
@@ -271,14 +271,14 @@
       "reported_obligations": 4302983.99
     },
     {
+      "value": "541611",
+      "award_count": 2,
+      "reported_obligations": 2975702.1100000003
+    },
+    {
       "value": "541614",
       "award_count": 1,
       "reported_obligations": 2915782.36
-    },
-    {
-      "value": "541611",
-      "award_count": 2,
-      "reported_obligations": 2702624.47
     },
     {
       "value": "541519",
@@ -290,12 +290,12 @@
     {
       "value": "DELIVERY ORDER",
       "award_count": 32,
-      "reported_obligations": 244511292.75
+      "reported_obligations": 258060834.12000003
     },
     {
       "value": "DEFINITIVE CONTRACT",
       "award_count": 8,
-      "reported_obligations": 91854758.76
+      "reported_obligations": 99261208.57
     },
     {
       "value": "BPA CALL",
