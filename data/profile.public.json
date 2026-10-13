@@ -1,20 +1,20 @@
 {
   "title": "Profile of the Selected Award Sample",
-  "as_of": "2026-09-13",
+  "as_of": "2026-10-13",
   "caveat": "These aggregates describe the curated sample only. They are not federal market totals or addressable-market estimates.",
   "award_count": 45,
   "unique_recipient_count": 35,
   "parent_order_count": 36,
   "standalone_award_count": 9,
-  "active_on_as_of_date": 27,
-  "reported_obligations_in_sample": 381616765.5100001,
+  "active_on_as_of_date": 23,
+  "reported_obligations_in_sample": 389093127.66000015,
   "period_start_min": "2020-09-20",
   "period_end_max": "2030-12-09",
   "by_awarding_agency": [
     {
       "value": "Department of Defense",
       "award_count": 32,
-      "reported_obligations": 343817233.25
+      "reported_obligations": 351244595.40000004
     },
     {
       "value": "Department of Agriculture",
@@ -24,7 +24,7 @@
     {
       "value": "Department of the Interior",
       "award_count": 3,
-      "reported_obligations": 11839748.32
+      "reported_obligations": 11888748.32
     },
     {
       "value": "Department of Commerce",
@@ -46,12 +46,12 @@
     {
       "value": "LEIDOS, INC.",
       "award_count": 1,
-      "reported_obligations": 55307958.83
+      "reported_obligations": 59632958.83
     },
     {
       "value": "CALIBRE SYSTEMS INC",
       "award_count": 1,
-      "reported_obligations": 50512319.7
+      "reported_obligations": 50527849.79
     },
     {
       "value": "KATMAI TECHNICAL SERVICES, LLC",
@@ -131,7 +131,7 @@
     {
       "value": "OPERATIONS SERVICES INC",
       "award_count": 1,
-      "reported_obligations": 4421120.18
+      "reported_obligations": 5546495.54
     },
     {
       "value": "ETHIC TECH, LLC",
@@ -149,6 +149,11 @@
       "reported_obligations": 4106001.01
     },
     {
+      "value": "DYNAMIC-HHS JV, LLC",
+      "award_count": 1,
+      "reported_obligations": 3956771.77
+    },
+    {
       "value": "R & K SOLUTIONS, INC.",
       "award_count": 2,
       "reported_obligations": 3956488.73
@@ -161,7 +166,7 @@
     {
       "value": "CRITIGEN LLC",
       "award_count": 1,
-      "reported_obligations": 3406557.71
+      "reported_obligations": 3455557.71
     },
     {
       "value": "NV5 GEOSPATIAL, INC.",
@@ -177,11 +182,6 @@
       "value": "LUCAYAN TECHNOLOGY SOLUTIONS LLC",
       "award_count": 1,
       "reported_obligations": 2915782.36
-    },
-    {
-      "value": "DYNAMIC-HHS JV, LLC",
-      "award_count": 1,
-      "reported_obligations": 1995315.07
     },
     {
       "value": "REDCASTLE RESOURCES INC",
@@ -223,7 +223,12 @@
     {
       "value": "541990",
       "award_count": 9,
-      "reported_obligations": 87234591.83999999
+      "reported_obligations": 87250121.92999998
+    },
+    {
+      "value": "561210",
+      "award_count": 6,
+      "reported_obligations": 78296881.37
     },
     {
       "value": "541330",
@@ -231,19 +236,14 @@
       "reported_obligations": 75253741.74
     },
     {
-      "value": "561210",
-      "award_count": 6,
-      "reported_obligations": 75210049.31
-    },
-    {
       "value": "541320",
       "award_count": 1,
-      "reported_obligations": 55307958.83
+      "reported_obligations": 59632958.83
     },
     {
       "value": "541620",
       "award_count": 3,
-      "reported_obligations": 30730676.64
+      "reported_obligations": 30779676.64
     },
     {
       "value": "541370",
@@ -290,7 +290,7 @@
     {
       "value": "DELIVERY ORDER",
       "award_count": 32,
-      "reported_obligations": 258060834.12000003
+      "reported_obligations": 264362820.91000006
     },
     {
       "value": "DEFINITIVE CONTRACT",
@@ -300,12 +300,12 @@
     {
       "value": "BPA CALL",
       "award_count": 4,
-      "reported_obligations": 19873602.64
+      "reported_obligations": 19922602.64
     },
     {
       "value": "PURCHASE ORDER",
       "award_count": 1,
-      "reported_obligations": 4421120.18
+      "reported_obligations": 5546495.54
     }
   ]
 }
