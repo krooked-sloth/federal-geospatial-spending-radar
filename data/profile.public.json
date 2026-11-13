@@ -1,20 +1,20 @@
 {
   "title": "Profile of the Selected Award Sample",
-  "as_of": "2026-10-13",
+  "as_of": "2026-11-13",
   "caveat": "These aggregates describe the curated sample only. They are not federal market totals or addressable-market estimates.",
   "award_count": 45,
   "unique_recipient_count": 35,
   "parent_order_count": 36,
   "standalone_award_count": 9,
   "active_on_as_of_date": 23,
-  "reported_obligations_in_sample": 389093127.66000015,
+  "reported_obligations_in_sample": 390433542.01,
   "period_start_min": "2020-09-20",
   "period_end_max": "2030-12-09",
   "by_awarding_agency": [
     {
       "value": "Department of Defense",
       "award_count": 32,
-      "reported_obligations": 351244595.40000004
+      "reported_obligations": 352585009.74999994
     },
     {
       "value": "Department of Agriculture",
@@ -104,6 +104,11 @@
       "reported_obligations": 7683560
     },
     {
+      "value": "ALPHA FACILITIES SOLUTIONS, LLC",
+      "award_count": 1,
+      "reported_obligations": 7232799.63
+    },
+    {
       "value": "AEVEX AEROSPACE, LLC",
       "award_count": 1,
       "reported_obligations": 6688036.9
@@ -119,24 +124,14 @@
       "reported_obligations": 6564710.44
     },
     {
-      "value": "ALPHA FACILITIES SOLUTIONS, LLC",
+      "value": "OPERATIONS SERVICES INC",
       "award_count": 1,
-      "reported_obligations": 5938825.93
+      "reported_obligations": 5808698.15
     },
     {
       "value": "KBR WYLE SERVICES, LLC",
       "award_count": 1,
       "reported_obligations": 5746142.28
-    },
-    {
-      "value": "OPERATIONS SERVICES INC",
-      "award_count": 1,
-      "reported_obligations": 5546495.54
-    },
-    {
-      "value": "ETHIC TECH, LLC",
-      "award_count": 1,
-      "reported_obligations": 4302983.99
     },
     {
       "value": "JOINT VENTURE SOLUTIONS (JVS) LLC",
@@ -147,6 +142,11 @@
       "value": "SURDEX CORPORATION",
       "award_count": 1,
       "reported_obligations": 4106001.01
+    },
+    {
+      "value": "ETHIC TECH, LLC",
+      "award_count": 1,
+      "reported_obligations": 4087222.03
     },
     {
       "value": "DYNAMIC-HHS JV, LLC",
@@ -228,7 +228,7 @@
     {
       "value": "561210",
       "award_count": 6,
-      "reported_obligations": 78296881.37
+      "reported_obligations": 78559083.98
     },
     {
       "value": "541330",
@@ -243,7 +243,7 @@
     {
       "value": "541620",
       "award_count": 3,
-      "reported_obligations": 30779676.64
+      "reported_obligations": 32073650.34
     },
     {
       "value": "541370",
@@ -268,7 +268,7 @@
     {
       "value": "531390",
       "award_count": 1,
-      "reported_obligations": 4302983.99
+      "reported_obligations": 4087222.03
     },
     {
       "value": "541611",
@@ -290,12 +290,12 @@
     {
       "value": "DELIVERY ORDER",
       "award_count": 32,
-      "reported_obligations": 264362820.91000006
+      "reported_obligations": 265656794.61000004
     },
     {
       "value": "DEFINITIVE CONTRACT",
       "award_count": 8,
-      "reported_obligations": 99261208.57
+      "reported_obligations": 99045446.61
     },
     {
       "value": "BPA CALL",
@@ -305,7 +305,7 @@
     {
       "value": "PURCHASE ORDER",
       "award_count": 1,
-      "reported_obligations": 5546495.54
+      "reported_obligations": 5808698.15
     }
   ]
 }
